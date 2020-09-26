@@ -1,0 +1,7 @@
+,position,winning_moves,loosing_moves,drawing_moves,best_moves,WDL,WDL_score,dtz_score
+1,8/8/8/q1K5/k7/8/7Q/8 w - - 0 1,,,"c5d6,c5c6,c5d4,c5c4","c5d6,c5c6,c5d4,c5c4",D,0,0
+2,8/8/8/2K1k2q/8/8/8/2Q5 b - - 0 1,,"h5h8,h5e8,h5h6,h5g5,h5h1,h5d1","h5h7,h5f7,h5g6,h5f5,h5h4,h5g4,h5h3,h5f3,h5h2,h5e2,e5f6,e5e6,e5f5,e5e4","h5h7,h5f7,h5g6,h5f5,h5h4,h5g4,h5h3,h5f3,h5h2,h5e2,e5f6,e5e6,e5f5,e5e4",D,0,0
+3,1q6/8/8/2K5/1Q6/8/4k3/8 b - - 0 1,,"b8b7,b8d6,b8b6,b8b5,b8f4,b8h2,e2f3,e2e3,e2d3,e2f2,e2f1,e2d1","b8h8,b8g8,b8f8,b8e8,b8d8,b8c8,b8a8,b8c7,b8a7,b8e5,b8b4,b8g3","b8h8,b8g8,b8f8,b8e8,b8d8,b8c8,b8a8,b8c7,b8a7,b8e5,b8b4,b8g3",D,0,0
+4,8/K7/6k1/8/8/8/1Q3q2/8 w - - 0 1,b2f2,"a7b8,a7a8,a7b7,a7a6,b2d4",b2b6,b2f2,W,2,1
+5,8/6k1/K7/8/8/Q7/8/q7 w - - 0 1,a3a1,"a6b7,a6a7,a6b6,a6b5,a6a5,a3a4,a3a2",a3a5,a3a1,W,2,1
+6,8/8/2K5/8/1Q6/3k4/8/5q2 w - - 0 1,b4b5,"c6d6,b4f8,b4f4,b4e4,b4d4,b4c4,b4c3,b4d2,b4e1,b4b1","c6d7,c6c7,c6b7,c6b6,c6d5,c6c5,c6b5,b4b8,b4e7,b4b7,b4d6,b4b6,b4c5,b4a5,b4h4,b4g4,b4a4,b4b3,b4a3,b4b2",b4b5,W,2,3
